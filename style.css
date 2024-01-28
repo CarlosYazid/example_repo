@@ -1,0 +1,35 @@
+:root {
+    --color-primary: #f9ed69;
+    --color-secondary: #f08a5d;
+    --color-tertiary: #b83b5e;
+    --color-quaternary: #6a2c70;
+    --color-quinary: #1e1f26;
+    --color-white: #fff;
+    --color-grey-light: #faf9f9;
+    --color-grey-light-2: #f4f2f2;
+    --color-grey-light-3: #f0eeee;
+    --color-grey-light-4: #ccc;
+    --color-grey-dark: #777;
+    --color-grey-dark-2: #999;
+    --color-grey-dark-3: #333;
+    --shadow-dark: 0 2rem 6rem rgba(0, 0, 0, 0.3);
+    --shadow-light: 0 2rem 5rem rgba(0, 0, 0, 0.06);
+    --line: 1px solid var(--color-grey-light-2);
+    --line2: 1px solid var(--color-grey-light-3);
+    --line3: 1px solid var(--color-grey-light-4);
+    --line4: 1px solid var(--color-grey-dark-2);
+    --line5: 1px solid var(--color-grey-dark-3);
+    --line6: 1px solid var(--color-quinary);
+    --line7: 1px solid var(--color-tertiary);
+    --line8: 1px solid var(--color-secondary);
+    --line9: 1px solid var(--color-primary);
+    --line10: 1px solid var(--color-white);
+    --line11: 1px solid var(--color-quaternary);
+    --line12: 1px solid var(--color-grey-dark);
+    --line13: 1px solid var(--color-grey-light);
+    --line14: 1px solid var(--color-grey-light-2);
+    --line15: 1px solid var(--color-grey-light-3);
+    --line16: 1px solid var(--color-grey-light-4);
+    --line17: 1px solid var(--color-grey-dark-2);
+    --line18: 1px solid var(--color-grey-dark-3);
+}
